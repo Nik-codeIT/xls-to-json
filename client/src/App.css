@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  padding-top: 100px;
+  background-color: rgb(241, 222, 115);
+}
+
+.btnStl {
+  background-color: brown;
+  border: 0;
+}
+
+.btnStl:hover {
+  background-color: rgb(255, 187, 0);
+  color: rgb(255, 255, 255);
+}
+
+.headCol {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
